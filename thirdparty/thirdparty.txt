@@ -1,0 +1,2 @@
+- Raylib 5.0 from: https://github.com/raysan5/raylib/releases/tag/5.0
+- cLDtk fron:      https://github.com/PompPenguin/cLDtk
